@@ -1,0 +1,2 @@
+# promocoes
+# praticaProfisionalScraping
