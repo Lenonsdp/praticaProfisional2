@@ -121,7 +121,7 @@ const analyse = async () => {
 		},
 		'body': JSON.stringify({
 			"email": "lenonsdp@gmail.com",
-			"password": "atcomispen"
+			"password": "teste"
 		})
 	})
 	.then(res => res.text())
